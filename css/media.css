@@ -1,0 +1,10 @@
+@media(min-width:0px) and (max-width:500px){
+table td.ojdnnn p{
+    font-size: 5px;
+}
+table td.ojdnnn span {
+    font-weight: 900;
+    font-size: 9px;
+}
+
+}
